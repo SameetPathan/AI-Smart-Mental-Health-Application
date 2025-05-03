@@ -1,6 +1,7 @@
 # PeacePulse: Smart Mental Health Application
 
-![WhatsApp Image 2025-03-20 at 10 41 29 PM](https://github.com/user-attachments/assets/f8d93d62-e221-484a-b84d-54a5c3dc1884)
+
+![WhatsApp Image 2025-03-20 at 10 41 29 PM](https://github.com/user-attachments/assets/5c0ad75a-5cc4-48ea-a421-b2e62f974c14)
 
 
 ## Overview
@@ -12,7 +13,8 @@ PeacePulse is a comprehensive mental health application built with React Native 
 - **Mood Tracker**: Log and visualize mood patterns over time
 - **Sleep Tracker**: Monitor sleep quality and duration
 - **Stress Tracker**: Track stress levels and identify triggers
-![WhatsApp Image 2025-03-20 at 10 41 24 PM](https://github.com/user-attachments/assets/197e6a2d-b969-49b8-86a3-551dc2681b6b)
+
+![WhatsApp Image 2025-03-20 at 10 41 24 PM (3)](https://github.com/user-attachments/assets/ed196067-8650-4503-b34e-0c226e80888a)
 
   
 
@@ -20,20 +22,25 @@ PeacePulse is a comprehensive mental health application built with React Native 
 - Powered by Anthropic's API
 - Provides instant support and answers to mental health questions
 - Offers coping strategies and personalized advice
-  ![WhatsApp Image 2025-03-20 at 10 41 19 PM (2)](https://github.com/user-attachments/assets/ce68272f-e69a-4358-8af8-d522d4ebf7f6)
+
+![WhatsApp Image 2025-03-20 at 10 41 23 PM (2)](https://github.com/user-attachments/assets/2325f7e6-551f-4434-8cb5-604eac33a375)
 
 
 ### 3. Professional Therapy
 - Schedule video consultations with licensed therapists
 - Secure messaging with mental health professionals
 - Session history and appointment management
-![WhatsApp Image 2025-03-20 at 10 41 18 PM](https://github.com/user-attachments/assets/912d8a53-d00b-42aa-9e6f-b47797083fd1)
+
+![WhatsApp Image 2025-03-20 at 10 41 17 PM](https://github.com/user-attachments/assets/8da52b65-5d31-49cf-85cb-8cb1dfb80b6a)
+![WhatsApp Image 2025-03-20 at 10 41 17 PM (1)](https://github.com/user-attachments/assets/b9269e95-2ded-4832-b6f9-bd386f54d387)
 
 
 ### 4. Gamification
 - Interactive mini-games designed to reduce stress and anxiety
 - Progress tracking and achievement system
-  ![WhatsApp Image 2025-03-20 at 10 41 22 PM](https://github.com/user-attachments/assets/3cc22dcd-87d6-4280-b389-d6501b31e0b7)
+
+![WhatsApp Image 2025-03-20 at 10 41 23 PM (1)](https://github.com/user-attachments/assets/f353e688-9fd8-4ea4-a5ca-c6315591c2da)
+![WhatsApp Image 2025-03-20 at 10 41 22 PM](https://github.com/user-attachments/assets/6cca73a1-cc20-4f21-bc31-c1b15128e525)
 
 
 ### 5. Personal Diary
@@ -41,25 +48,29 @@ PeacePulse is a comprehensive mental health application built with React Native 
 - Mood-tagging and search capabilities
 - Secure and encrypted entries
 
-![WhatsApp Image 2025-03-20 at 10 41 21 PM](https://github.com/user-attachments/assets/72cf252f-ffef-400d-969f-4a067ea742dc)
+![WhatsApp Image 2025-03-20 at 10 41 21 PM (3)](https://github.com/user-attachments/assets/9ead9c65-1013-4645-8bf7-e2a6a2205b1e)
+![WhatsApp Image 2025-03-20 at 10 41 21 PM (2)](https://github.com/user-attachments/assets/2010d889-7792-4ea4-8846-89d2443865d5)
+
 
 ### 6. Community Support
 - Anonymous community interactions
 - Share experiences and stories
 - Peer support in a moderated environment
-  ![WhatsApp Image 2025-03-20 at 10 41 20 PM (2)](https://github.com/user-attachments/assets/dd1a1752-087a-4b04-be8e-863a7ee1952b)
+ 
+![WhatsApp Image 2025-03-20 at 10 41 20 PM (3)](https://github.com/user-attachments/assets/81b0bee1-ec7a-42fa-9f54-ffc386a2b2f0)
 
 
 ### 7. Exercise & Diet Suggestions
 - AI-powered health recommendations
 - Customized workout and nutrition plans for mental wellbeing
-![WhatsApp Image 2025-03-20 at 10 41 20 PM](https://github.com/user-attachments/assets/70464f37-196e-4757-96a6-0a3318c273d9)
+![WhatsApp Image 2025-03-20 at 10 41 20 PM](https://github.com/user-attachments/assets/34a4da42-a6fb-495d-877a-d671c5da2c7b)
+
 
 ### 8. Educational Resources
 - Curated videos, books, blogs, and articles
 - Evidence-based mental health information
-![WhatsApp Image 2025-03-20 at 10 41 19 PM](https://github.com/user-attachments/assets/7b3fc07d-e727-4e73-b244-4d2068ebaab1)
 
+![WhatsApp Image 2025-03-20 at 10 41 19 PM](https://github.com/user-attachments/assets/47c8731e-a459-4c38-8e2e-f0c44f3a85aa)
 
 ## Tech Stack
 - **Frontend**: React Native
